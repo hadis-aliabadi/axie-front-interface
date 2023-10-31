@@ -1,0 +1,189 @@
+{
+  "name":"Buba",
+  "class-title":"Class",
+  "class":"Beast",
+  "role-title":"Role",
+  "role":"Damage Dealer",
+  "specialties":"Specialties",
+  "specialties-1":"Rage",
+  "specialties-2":"Burst Damage",
+  "specialties-3":"Backdoor",
+  "potential-points":"Potential Points",
+  "about":"Sometimes, Buba's rage can be so intense that it causes his eyes to spark electricity.",
+  "story":"Story",
+  "story-part-1":"Buba is one of Olek's young and promising Frontier Corp students.",
+  "story-part-2":"Buba was born in a small village near the forest. When he was a young lad, a Frontier battalion marched through his hometown, which sparked an interest and later on his heart's dream to become the greatest Frontier soldier ever.",
+  "story-part-3":"He's short-tempered, groomed, and overly meticulous. His rage can sometimes be so intense that it causes his eyes to spark electricity.Even though it sometimes doesn't come across, he truly cares for those that are closest to him and would do anything to help them.Buba loves his brush-shaped tail, even though he's a terrible artist. If you want to upset Buba, just try and mess up his tail.",
+  "cards":"Cards",
+  "cards_data": [
+    {
+      "card_name": "Sparky",
+      "card_type": "attack",
+      "card_damage": 65,
+      "damage_icon": "/img/bubacards/damage.png",
+      "card_energy": "1",
+      "card_image": "/img/bubacards/beast-eyes-03-00.png",
+      "card_text": "<p class='text-white'>All allies gains 1 <strong>Rage</strong>.</p>",
+      "card_bg": "/img/bubacards/beast.jpg",
+      "card_bg_2": "/img/bubacards/beast2.png",
+      "frame_energy": "/img/png/frame-energy.png",
+      "energy_icon": "/img/png/energy-icon.png",
+      "frame_plate": "/img/png/frame-owner-plate.png",
+      "icon": "/img/bubacards/eyes.png",
+      "skill": "/img/png/attack.png",
+      "bottom_icon": "/img/bubacards/beast3.png"
+    },
+    {
+      "card_name": "Foxy",
+      "card_type": "attack",
+      "card_damage": 65,
+      "damage_icon": "/img/bubacards/damage.png",
+      "card_energy": "1",
+      "card_image": "/img/bubacards/beast-ears-03-00.png",
+      "card_text": "<p class='text-white'>Gain 2 <strong>Rage</strong>.</p>",
+      "card_bg": "/img/bubacards/beast.jpg",
+      "card_bg_2": "/img/bubacards/beast2.png",
+      "frame_energy": "/img/png/frame-energy.png",
+      "energy_icon": "/img/png/energy-icon.png",
+      "frame_plate": "/img/png/frame-owner-plate.png",
+      "icon": "/img/bubacards/ears.png",
+      "skill": "/img/png/attack.png",
+      "bottom_icon": "/img/bubacards/beast3.png"
+    },
+    {
+      "card_name": "Foxy",
+      "card_type": "attack",
+      "card_damage": 65,
+      "damage_icon": "/img/bubacards/damage.png",
+      "card_energy": "1",
+      "card_image": "/img/bubacards/beast-mouth-01-00.png",
+      "card_text": "<p class='text-white'>Gain 2 <strong>Rage</strong>.</p>",
+      "card_bg": "/img/bubacards/beast.jpg",
+      "card_bg_2": "/img/bubacards/beast2.png",
+      "frame_energy": "/img/png/frame-energy.png",
+      "energy_icon": "/img/png/energy-icon.png",
+      "frame_plate": "/img/png/frame-owner-plate.png",
+      "icon": "/img/bubacards/mouth.png",
+      "skill": "/img/png/attack.png",
+      "bottom_icon": "/img/bubacards/beast3.png"
+    },
+    {
+      "card_name": "Persimmon",
+      "card_Type": "attack",
+      "card_damage": 65,
+      "damage_icon": "/img/bubacards/damage.png",
+      "card_energy": "1",
+      "card_image": "/img/bubacards/plant-horn-01-00.png",
+      "card_text": "<p class='text-white'><strong>Cleanse</strong> 1 time. <strong>Cleanse</strong> 1 bouns timeif this Axie has buff. </p>",
+      "card_bg": "/img/bubacards/plant.jpg",
+      "card_bg_2": "/img/png/plant2.png",
+      "frame_energy": "/img/png/frame-energy.png",
+      "energy_icon": "/img/png/energy-icon.png",
+      "frame_plate": "/img/png/frame-owner-plate.png",
+      "icon": "/img/bubacards/horn.png",
+      "skill": "/img/png/attack.png",
+      "bottom_icon": "/img/png/plant3.png"
+    },
+    {
+      "card_name": "Forest Hero",
+      "card_type": "attack",
+      "card_damage": 125,
+      "damage_icon": "/img/bubacards/damage.png",
+      "card_energy": "2",
+      "card_image": "/img/bubacards/plant-back-03-00.png",
+      "card_text": "<p class='text-white'>Whenever this Axie attacks. this Card gain 6 base DGM per energy spent. Whenever any allied Axie attacks, this Card gains 3 base DGM per Energy spent.</p>",
+      "card_bg": "/img/jpeg/plant.jpg",
+      "card_bg_2": "/img/png/plant2.png",
+      "frame_energy": "/img/png/frame-energy.png",
+      "energy_icon": "/img/png/energy-icon.png",
+      "frame_plate": "/img/png/frame-owner-plate.png",
+      "icon": "/img/bubacards/back.png",
+      "skill": "/img/png/attack.png",
+      "bottom_icon": "/img/png/plant3.png"
+    },
+    {
+      "card_name": "Buba Brush",
+      "card_type": "attack",
+      "card_damage":65,
+      "damage_icon": "/img/bubacards/damage.png",
+      "card_energy": "1",
+      "card_image": "/img/bubacards/beast-tail-03-00.png",
+      "card_text": "<p class='text-white'>Deal 25% <strong>Splash DMG</strong> in Fury Form.</p>",
+      "card_bg": "/img/bubacards/beast.jpg",
+      "card_bg_2": "/img/bubacards/beast2.png",
+      "frame_energy": "/img/png/frame-energy.png",
+      "energy_icon": "/img/png/energy-icon.png",
+      "frame_plate": "/img/png/frame-owner-plate.png",
+      "icon": "/img/bubacards/tail.png",
+      "skill": "/img/png/attack.png",
+      "bottom_icon": "/img/bubacards/beast3.png"
+    }
+  ],
+  "explore_title": "Explore Starter Axies",
+  "axies_types": [
+    {
+      "src": "/img/png/ena.png",
+      "name": "Ena",
+      "src2": "/img/png/plant.png",
+      "link":"/starter-axies/ena"
+    },
+    
+    {
+      "src": "/img/png/tripp.png",
+      "name": "Tripp",
+      "src2": "/img/png/beast3.png",
+      "link":"/starter-axies/tripp"
+    },
+    {
+      "src": "/img/png/puffy.png",
+      "name": "Puffy",
+      "src2": "/img/png/Aquatic3.png",
+      "link":"/starter-axies/puffy"
+    }
+    
+  ],
+  "status":"STATS",
+  "tag":"TAGS",
+  "badge-data":[
+    {
+      "rate":"7",
+      "icon":"fa-moon",
+      "tooltip":"5 energy"
+    },
+    {
+      "rate":"450",
+      "icon":"fa-sword",
+      "tooltip":"95 damage"
+    },
+    {
+      "rate":"0",
+      "icon":"fa-sparkle",
+      "tooltip":"105 heal"
+    },
+    {
+      "rate":"0",
+      "icon":"fa-shield",
+      "tooltip":"160 sheild"
+    }
+  ],
+  "badge-data-2":[
+    {
+      "rate":"6",
+      "icon":"fa-sword",
+      "tooltip":"4 skill cards"
+    }
+    
+  ],
+  "potential-data":[
+    {
+      "num":"9",
+      "img":"/img/bubacards/beast.png",
+      "tooltip":"beast"
+    },
+    {
+      "num":"2",
+      "img":"/img/png/plant.png",
+      "tooltip":"plant"
+    }
+  ]
+}

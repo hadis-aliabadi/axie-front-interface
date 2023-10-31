@@ -1,0 +1,109 @@
+{
+  "team-build-data":[
+    {
+      "rage_build_title":"Rage Build",
+      "rage_build":"Stack Rage on the midliner and backliner as quickly as possible, enter Fury Mode and annihilate the opponent with crits.",
+      "rationale":"Rationale",
+      "rationale_part_1":"Damage dealers have as many rage-stacking abilities as possible, along with high damage attacks and attacks which synergise well with Fury mode such as Ronin and Post-Fight.0",
+      "rationale_part_2":"Tank has 3 summon abilities which boost Rage output of Little Branch.",
+      "rationale_part_3":"Summons and heals add some sustain and protect the damage dealers.",
+      "strong_against":"Strong Against",
+      "strong_against_part_1":"Sustain teams - Fury mode can burst through with single-turn kills, preventing a sustain team from healing back up.",
+      "strong_against_part_2":"Poison/Bleed teams - Burst damage and aggression will usually take the upper hand before Poison/Bleed can tick down the opponent's health quickly enough.",
+      "weak_against":"Weak Against",
+      "weak_against_part_1":"Backdoor teams - Opponents can often use targetting abilities to kill our damage dealer before we can stack enough Rage to hit Fury mode.",
+      "weak_against_part_2":"Curses teams - Getting the most out of Fury mode is highly dependent on getting a good card draw. Disrupting our deck with curse cards lowers our chances as the battle goes on, and can make it very difficult to capitalise on Fury Mode rounds.",
+      "view_cards":"View Cards",
+      "image":"img/jpeg/rage.jpg",
+      "axie_data":[
+        {
+          "title":"Front Axie",
+          "data":[
+            {
+              "img":"hi",
+              "key":"Mavis"
+            },
+            {
+              "img":"hi",
+              "key":"Hollow"
+            },
+            {
+              "img":"hi",
+              "key":"Herbivore"
+            },
+            {
+              "img":"hi",
+              "key":"Rose Bud"
+            },
+            {
+              "img":"hi",
+              "key":"Shiitake"
+            },
+            {
+              "img":"hi",
+              "key":"Shiba"
+            }
+          ]
+        },
+        {
+          "title":"Mid Axie",
+          "data":[
+            {
+              "img":"hi",
+              "key":"Chubby"
+            },
+            {
+              "img":"hi",
+              "key":"Belieber"
+            },
+            {
+              "img":"hi",
+              "key":"Confident"
+            },
+            {
+              "img":"hi",
+              "key":"Little Branch"
+            },
+            {
+              "img":"hi",
+              "key":"Ronin"
+            },
+            {
+              "img":"hi",
+              "key":"Shiba"
+            }
+          ]
+        },
+        {
+          "title":"Mid Axie",
+          "data":[
+            {
+              "img":"hi",
+              "key":"Chubby"
+            },
+            {
+              "img":"hi",
+              "key":"Belieber"
+            },
+            {
+              "img":"hi",
+              "key":"Confident"
+            },
+            {
+              "img":"hi",
+              "key":"Little Branch"
+            },
+            {
+              "img":"hi",
+              "key":"Tri Spikes"
+            },
+            {
+              "img":"hi",
+              "key":"Post Fight"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

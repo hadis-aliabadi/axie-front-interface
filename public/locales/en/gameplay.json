@@ -1,0 +1,260 @@
+{
+  "game-play-guide":"Gameplay Guide",
+  "text":"Welcome to our comprehensive guide to playing" ,
+  "Axie-Infinity":"Axie Infinity: Origins!",
+  "axies": "axies",
+  "battel-mechanics":"battle mechanics",
+  "new-to-axie": "New to Axie? Get started with our",
+  "new-player-guide": " New Player Guide.",
+  "text-box-1":"Axies are fascinating, adorable creatures that you can collect, battle and breed. In order to play the game, you'll need a team of 3 Axies.",
+  "text-box-2":"Starter Axies are available to all players for free, as soon as you arrive in Lunacia. Personal Axies can be acquired on the Marketplace .",
+  "text-box-3":"Each Axie has 6 Cards that determine which abilities it can use in battle.",
+  "text-box-4":"Each Card has 1 Charm slot. Charms enhance an Axie's abilities.",
+  "text-box-5":"You can also give your Axies special passive powers using Runes.",
+  "text-box-6":"Welcome to your first Axie battle! The goal is to use your Axies to defeat your opponent.",
+  "text-box-7":"Each player starts with a Deck of 18 Cards. Every Turn, you draw 5 Cards into your hand.",
+  "text-box-8":"Cards cost Energy to play.",
+  "text-box-9":"Once you've used up all your Energy or are done playing Cards, it's time to end your Turn.",
+  "text-box-10":"Any unused Cards are discarded at the end of your Turn, unused energy is not carried over by default.",
+  "text-box-11":"Floating icons above your Axies' heads indicate that they have active Status Effects.",
+  "text-box-12":"The first player to reduce the 3 opposing Axies' health to zero, wins!",
+  "text-box-13":"Don't forget to collect your rewards!",
+  "text-box-14":"Phew, did you get all that? Don't worry. We're now going to review all of the Battle Mechanics in more detail.",
+  "cards_data": [
+    {
+      "card_name": "Blossom",
+      "card_type": "skill",
+      "card_energy": "0",
+      "card_image": "/img/png/plant-eyes-10-00.png",
+      "card_text": "<p<If <strong>Initial</strong>, pick 1 Plant card from your Discard Pile; otherwise, pick from your Draw Pile. Put the card on top of your Draw Pile. <Banish>.</p>",
+      "card_bg": "/img/jpeg/plant.jpg",
+      "card_bg_2": "/img/png/plant2.png",
+      "frame_energy": "/img/png/frame-energy.png",
+      "energy_icon": "/img/png/energy-icon.png",
+      "frame_plate": "/img/png/frame-owner-plate.png",
+      "icon": "/img/png/eyes.png",
+      "skill": "/img/png/skill.png",
+      "bottom_icon": "/img/png/plant3.png"
+    },
+    {
+      "card_name": "Clover",
+      "card_type": "skill",
+      "card_energy": "1",
+      "card_image": "/img/png/plant-ears-04-00.png",
+      "card_text": "<p>Summon 1 <strong>Clover</strong>.</p>",
+      "card_bg": "/img/jpeg/plant.jpg",
+      "card_bg_2": "/img/png/plant2.png",
+      "frame_energy": "/img/png/frame-energy.png",
+      "energy_icon": "/img/png/energy-icon.png",
+      "frame_plate": "/img/png/frame-owner-plate.png",
+      "icon": "/img/png/ears.png",
+      "skill": "/img/png/skill.png",
+      "bottom_icon": "/img/png/plant3.png"
+    },
+    {
+      "card_name": "Bidens",
+      "card_type": "skill",
+      "card_heal": 60,
+      "heal_icon": "/img/png/heal.png",
+      "card_energy": "1",
+      "card_image": "/img/png/plant-back-06-00.png",
+      "card_text": "<p>Target any Ally. <Cleanse> the target 2 times and grant it 2 <strong>Leaf</strong>.</p>",
+      "card_bg": "/img/jpeg/plant.jpg",
+      "card_bg_2": "/img/png/plant2.png",
+      "frame_energy": "/img/png/frame-energy.png",
+      "energy_icon": "/img/png/energy-icon.png",
+      "frame_plate": "/img/png/frame-owner-plate.png",
+      "icon": "/img/png/tail.png",
+      "skill": "/img/png/skill.png",
+      "bottom_icon": "/img/png/plant3.png"
+    },
+    {
+      "card_name": "Zigzag",
+      "card_nype": "attackmelee",
+      "card_damage": 60,
+      "damage_icon": "/img/png/damage.png",
+      "card_energy": "1",
+      "card_image": "/img/png/plant-mouth-04-00.png",
+      "card_text": "<p>If the target has <strong>Fragile</strong>, heal 20 HP to self. Otherwise, apply <strong>Fragile</strong> for 4 turns.</p>",
+      "card_bg": "/img/jpeg/plant.jpg",
+      "card_bg_2": "/img/png/plant2.png",
+      "frame_energy": "/img/png/frame-energy.png",
+      "energy_icon": "/img/png/energy-icon.png",
+      "frame_plate": "/img/png/frame-owner-plate.png",
+      "icon": "/img/png/mouth.png",
+      "skill": "/img/png/attack.png",
+      "bottom_icon": "/img/png/plant3.png"
+    },
+    {
+      "card_name": "Cactus",
+      "card_type": "attackmelee",
+      "card_damage": 60,
+      "damage_icon": "/img/png/damage.png",
+      "card_energy": "1",
+      "card_image": "/img/png/plant-horn-10-00.png",
+      "card_text": "<p>If <strong>Initial</strong>, deal 15 bonus DMG and apply {Taunt} to self for 2 turns.</p>",
+      "card_bg": "/img/jpeg/plant.jpg",
+      "card_bg_2": "/img/png/plant2.png",
+      "frame_energy": "/img/png/frame-energy.png",
+      "energy_icon": "/img/png/energy-icon.png",
+      "frame_plate": "/img/png/frame-owner-plate.png",
+      "icon": "/img/png/horn.png",
+      "skill": "/img/png/attack.png",
+      "bottom_icon": "/img/png/plant3.png"
+    },
+    {
+      "card_name": "Hot Butt",
+      "card_type": "skill",
+      "card_heal": 30,
+      "heal_icon": "/img/png/heal.png",
+      "card_energy": "1",
+      "card_image": "/img/png/plant-tail-12-00.png",
+      "card_text": "<p>Target any ally. Put 2 <strong>Burn</strong>s into your opponent's Discard Pile.</p>",
+      "card_bg": "/img/jpeg/plant.jpg",
+      "card_bg_2": "/img/png/plant2.png",
+      "frame_energy": "/img/png/frame-energy.png",
+      "energy_icon": "/img/png/energy-icon.png",
+      "frame_plate": "/img/png/frame-owner-plate.png",
+      "icon": "/img/png/tail.png",
+      "skill": "/img/png/skill.png",
+      "bottom_icon": "/img/png/plant3.png"
+    }
+  ],
+  "how_to_play_1": "Axie Infinity is a turn-based card game where you and your Axies battle against fierce foes and other players.",
+  "how_to_play_2": "There are 2 different types of gameplay: ",
+  "adventure_mode": "Adventure Mode",
+  "arena_mode": "Arena Mode",
+  "how_to_play_3": ". While you'll face different opponents depending on which gameplay Mode you're playing, the basic battle mechanics are the same for both.",
+  "how_to_play_4": "Let's dive into the key parts of Axie combat.",
+  "battle_title": "Battle Basics",
+  "battle_basics_data": [
+    {
+      "src": "/img/png/cards2.png",
+      "title": "Cards",
+      "description": "At the beginning of each turn, you draw 5 Cards from your deck of 18 cards. Tap on any Card in your hand to use that ability. Used Cards go into the Discard Pile."
+    },
+    {
+      "src": "/img/png/energy.png",
+      "title": "Energy",
+      "description": "You will start each turn with 3 Energy and, as you play Cards, your Energy will be depleted."
+    },
+    {
+      "src": "/img/png/turns.png",
+      "title": "Turns",
+      "description": "Once you're out of Energy or done playing Cards, tap End Turn. Unused Cards will be discarded at the end of each Turn, unused energy will not be carried over by default."
+    },
+    {
+      "src": "/img/png/battle3.png",
+      "title": "Battle",
+      "description": "The bars floating above your Axies' heads show how much health they have left. The goal is to reduce the health of your opponent's 3 Axies to 0 before they can do the same to you."
+    },
+    {
+      "src": "/img/png/rewards.png",
+      "title": "Rewards",
+      "description": "The winner receives rewards, ranging from power-ups to crafting materials. If you're playing Adventure Mode, you can unlock new chapters in the storyline, while in Ranked Arena Mode, you can collect Victory Stars and climb to new ranks!"
+    }
+  ],
+  "battle-basic-details1":[
+    {
+      "title":"The Deck",
+      "descrption":"<p><i className='fa-solid fa-play text-pink'></i> Each player has a Deck of 18 <a href='/cards' className='text-red-500'> Cards </a> (1 Card for your 3 Axies' 18 total body parts).</p><p>On the left of the screen is your Draw Pile, from which your next Cards will be drawn.</p><p>You can tap on the Draw Pile to view the remaining Cards to be drawn. Remember, when you view the Draw Pile, the Cards will be shuffled!</p><p>On the right side of the screen is your Discard Pile. Played Cards are placed into the Discard Pile.</p><p>Once your Draw Pile is empty, the Discard Pile is shuffled into the Draw Pile.</p>"
+    },
+    {
+      "title":"Cards",
+      "descrption":"<p>The <a href='/cards' className='text-red-500'> Cards </a> in your hand determine what abilities you can use in any given Turn.</p><p>Hover over a Card to enlarge it. Tap a Card to play it.</p><p>Cards can do damage, shield or heal one or more of your teammates or generate additional<a href='/cards' className='text-red-500'> Curse Cards </a>, <a href='/cards' className='text-red-500'>Tool Cards</a> or <a href='/cards' className='text-red-500'>Summoned allies</a> .</p><p>At the end of your Turn, all remaining Cards in your hand, excluding Cards with the <a href='/cards' className='text-red-500'>Retain Tag</a>, are discarded.</p>"
+    },
+    {
+      "title":"Revenge Cards",
+      "descrption":"<p>When one of your Axies dies, all of its cards in your Hand and in the Draw/Discard Piles will disappear and the same amount of Revenge Cards will be shuffled into the Discard Pile (max: 4).</p><p>Revenge cards are weaker than standard cards, so your deck is disadvantaged.</p><p>Since Revenge Cards have <a href='/cards' className='text-red-500'>Ethereal and Banish Tags</a>, they will be discarded at the end of your Turn regardless of whether you choose to play them.</p>"
+    },
+    {
+      "title":"Keep",
+      "descrption":"<p>The Keep mechanic gives you the ability to keep several cards in your hand after your current Turn finishes at the cost of Energy Fragments.</p><p>Keep costs 1 Energy Fragment per Card selected, then one additional Energy Fragment for all additional cards in that same turn.</p><p>If you hold no Energy Fragments, then you may not use Keep.</p><p>For example: The first Keep in the current turn costs 1 Energy fragment, the second Keep in that same turn costs 2 Energy Fragments. At the end of the turn, Keep costs are reset.</p><p>Look for the Keep button in the lower left side of the screen, next to the Energy Reservoir.</p>"
+    },
+    {
+      "title":"Energy Burst",
+      "descrption":"<p>Players will be able to trigger an Energy Burst by collecting Energy Fragments. Each Energy Burst will increase a player's energy per turn by 1 permanently and every two Energy Bursts will increase a player's card draw per turn by 1 permanently.</p><p>The number of Energy Fragments required per Energy Burst is increased each time.</p><p>Energy Fragments are collected by: 1) Using energy to play cards, 2) Using energy to Keep a card, except for the free Keep given on the first round and 3) From effects of Cards, Runes, and Charms, 4) Left Over Energy at the end of turn is converted to Energy Fragment.</p><p>The Second player has a slightly lower requirement for their first Energy Burst to compensate for going second.</p>"
+    }
+  ],
+  "battle-basic-details2":[
+    {
+      "title":"Turns",
+      "descrption":"<p>In <a href='/cards' className='text-red-500'>Adventure Mode</a>, there is no Turn time limit.</p><p>In <a href='/cards' className='text-red-500'>Arena Mode</a>, you will have 45 seconds to complete your Turn. After 45 seconds, your Turn will end automatically.</p><p>Turns continue until either you or your opponent are eliminated.</p><p>Bloodmoon starts at turn 16 and reduces the max HP of every Axie each turn until the game is concluded.</p>"
+    },
+    {
+      "title":"Energy",
+      "descrption":"<p>Each Turn, you will get 3 Energy. Cards cost between 0 and 2 Energy to play.</p><p>Unused Energy is discarded at the end of each turn.</p>"
+    },
+    {
+      "title":"Early Rounds",
+      "descrption":"<p>Players are given the choice to go first or second.</p><p>If both players choose the same option, they will play Rock, Paper, Scissors to decide who gets their preference.</p><p>The player who gets to go first is at an advantage. To offset this, there is a scaling system for the amount of Energy gained and Cards drawn in the early rounds:</p><p><span className='font-bold'>Turn 1</span>: 1st player to go gains 1 Energy and draws 3 Cards | 2nd player to go gains 2 Energy and draws 4 Cards</p><p><span className='font-bold'>Turn 2</span>: 1st player to go gains 2 Energy and draws 4 Cards | 2nd player to go gains 3 Energy and draws 4 Cards</p><p><span className='font-bold'>Onwards</span>: From this point on both players gain 3 Energy and draw 5 Cards for the remainder of the battle.</p>"
+    },
+    {
+      "title":"Status Effects",
+      "descrption":"<p>There are a variety of different Status Effects that can impact Axies during battle.</p><p><a href='/cards' className='text-red-500'>Buffs</a> are positive status effects.</p><p><a href='/cards' className='text-red-500'>Debuffs</a> are negative status effects.</p>"
+    },
+    {
+      "title":"Targeting",
+      "descrption":"<p>Assuming there are no other active game mechanics, such as Taunt or other targeting effects, attacks will target the frontmost opponent by default.</p><p>Some Cards allow you to select the target - this can either be an ally to heal or an enemy to attack.</p><p>Some Cards will attack random targets, which may or may not bypass the frontmost opponent. Other Cards will specifically target the second-frontmost Axie or the furthest Axie in certain circumstances. Subsequent attacks do not continue to target the Axie who was attacked with the initial Card.</p><p>The Taunt effect will cause all incoming enemy attacks to target this Axie. This can be used both defensively (to protect others) or offensively (to focus attacks on a strategic target).</p>"
+    },
+    {
+      "title":"Blood Moon",
+      "descrption":"<p>Watch out! The Blood Moon mechanic reduces the max health of all Axies starting in later stages of a battle.</p><p>Max HP is reduced by 20 DMG in Turn 16 and increases by 10 DMG after each subsequent Turn.</p>"
+    }
+  ],
+  "infinity_description": "Axies are your ticket to endless experiences in the Axie Infinity Universe.",
+  "battletype_data": [
+    {
+      "href": "/adventure",
+      "src1": "/img/jpeg/adventure.jpg",
+      "src2": "/img/png/adventure-title.png",
+      "description": "Hone your skills or practice new strategies."
+    },
+    {
+      "href": "/arena",
+      "src1": "/img/jpeg/arena.jpg",
+      "src2": "/img/png/arena-title.png",
+      "description": "Battle against other players for a spot on the leaderboard."
+    },
+    {
+      "href": "/esports",
+      "src1": "/img/jpeg/esports.jpg",
+      "src2": "/img/png/esports-title.png",
+      "description": "Compete in an eSports event to win even greater prizes!"
+    }
+  ],
+  "theory_craft_data": [
+    {
+      "src1": "/img/jpeg/axie-builds.jpg",
+      "src2": "/img/png/axie-builds-title.png",
+      "description": "Assemble next Season's strongest Axie builds and team compositions.",
+      "href": "/guides/builds"
+    },
+    {
+      "src1": "/img/jpeg/breeding.jpg",
+      "src2": "/img/png/breeding-title.png",
+      "description": "Experiment with Axie genetics to breed and sell desirable Axies on the Marketplace.",
+      "href": "/guides/breeding"
+    }
+  ],
+  "infiniteExperience": [
+    {
+      "src1": "/img/jpeg/collect.jpg",
+      "src2": "/img/png/collect-title.png",
+      "description": "Explore the Marketplace in search of rare Axies to add to your collection. Origin and Mystic Axies are some of the most collectible NFTs thanks to their unique aesthetics and capped supply.",
+      "href": "/guides/collectors"
+    },
+    {
+      "src1": "/img/jpeg/create.jpg",
+      "src2": "/img/png/create-title.png",
+      "description": "Creators are the backbone of the Axie Infinity community. Whether you produce YouTube videos, make art, write guides or host live streams, you play a vital role in attracting and onboarding new players to our ecosystem.",
+      "href": "/guides/creators"
+    },
+    {
+      "src1": "/img/jpeg/connect.jpg",
+      "src2": "/img/png/connect-title.png",
+      "description": "Join your Axie regional server and make local connections and help build the future of the Axie universe, together.",
+      "href": "/community"
+    }
+  ]
+}

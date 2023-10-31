@@ -1,0 +1,195 @@
+{
+  "name":"Puffy",
+  "class-title":"Class",
+  "class":"Aquatic",
+  "role-title":"Role",
+  "role":"Damage Dealer",
+  "specialties":"Specialties",
+  "specialties-1":"Damage Boost",
+  "specialties-2":"Burst Damage",
+  "specialties-3":"HP Drain",
+  "potential-points":"Potential Points",
+  "about":"Puffy can create a water bubble large enough to enclose herself and her allies, helping them float above the air.",
+  "story":"Story",
+  "story-part-1":"Puffy is one of Olek's young, promising Frontier Corp students.Most find her to be incredibly cheerful, full of life, and perhaps even a little naive, but those closest to her know better! She can be very calculating and mischievous.",
+  "story-part-2":"Even though she comes from a well known family who lives in a small village near Lake Shrine, Puffy chose to establish her own identity and independence early in her life. She hopes that becoming a Frontier soldier will allow her to visit all of the biggest cities in Lunacia, and put her back in contact with her older brother Puff, a legendary Axie.",
+  "story-part-3":"Her distinguishing characteristic, the colorful crab-twintail horns, were a gift from her brother. When they were both growing up together, Puff and Puffy would often race up waterfalls, but Puff always seemed to get the upper hand. One day, Puffy came up with a trick of wrapping herself inside a water bubble, to instead quickly float up the waterfall and finally win the race. Puff gave her the twintail as a gift for her cleverness, and the water bubble continues to be an important battle tactic during her training.",
+  "cards":"Cards",
+  "cards_data": [
+    {
+      "card_name": "Baby",
+      "card_energy": "1",
+      "card_image": "/img/puffycards/aquatic-eyes-01-00.png",
+      "card_text": "<p class='text-white'><strong>Innate</strong> Target any ally. All DMG dealt by the target is increased by 10% if its HP is >= 50% <strong>Exile</strong>.</p>",
+      "card_bg": "/img/puffycards/aquatic.jpg",
+      "card_bg_2": "/img/puffycards/aquatic1.png",
+      "frame_energy": "/img/png/frame-energy.png",
+      "energy_icon": "/img/png/energy-icon.png",
+      "frame_plate": "/img/png/frame-owner-plate.png",
+      "icon": "/img/bubacards/eyes.png",
+      "skill": "/img/puffycards/power.png",
+      "bottom_icon": "/img/puffycards/aquatic2.png"
+    },
+    {
+      "card_name": "Puff",
+      "card_type": "attack",
+      "card_damage": 60,
+      "damage_icon": "/img/bubacards/damage.png",
+      "card_energy": "1",
+      "card_image": "/img/puffycards/beast-mouth-03-00.png",
+      "card_text": "<p class='text-white'>Heal HP = 50% of unblocked DMG.</p>",
+      "card_bg": "/img/bubacards/beast.jpg",
+      "card_bg_2": "/img/bubacards/beast2.png",
+      "frame_energy": "/img/png/frame-energy.png",
+      "energy_icon": "/img/png/energy-icon.png",
+      "frame_plate": "/img/png/frame-owner-plate.png",
+      "icon": "/img/bubacards/mouth.png",
+      "skill": "/img/png/attack.png",
+      "bottom_icon": "/img/bubacards/beast3.png"
+    },
+    {
+      "card_name": "Little Crab",
+      "card_type": "attack",
+      "card_damage": 65,
+      "damage_icon": "/img/bubacards/damage.png",
+      "card_energy": "1",
+      "card_image": "/img/puffycards/aquatic-ears-01-00.png",
+      "card_text": "<p class='text-white'>Gain 2 <strong>Bubble</strong>.</p>",
+      "card_bg": "/img/puffycards/aquatic.jpg",
+      "card_bg_2": "/img/puffycards/aquatic1.png",
+      "frame_energy": "/img/png/frame-energy.png",
+      "energy_icon": "/img/png/energy-icon.png",
+      "frame_plate": "/img/png/frame-owner-plate.png",
+      "icon": "/img/bubacards/ears.png",
+      "skill": "/img/png/attack.png",
+      "bottom_icon": "/img/puffycards/aquatic2.png"
+    },
+    {
+      "card_name": "Jellytacle",
+      "card_Type": "attack",
+      "card_damage": 65,
+      "damage_icon": "/img/bubacards/damage.png",
+      "card_energy": "1",
+      "card_image": "/img/puffycards/aquatic-horn-01-00.png",
+      "card_text": "<p class='text-white'>Gain 2 <strong>Bubble</strong>.</p>",
+      "card_bg": "/img/puffycards/aquatic.jpg",
+      "card_bg_2": "/img/puffycards/aquatic1.png",
+      "frame_energy": "/img/png/frame-energy.png",
+      "energy_icon": "/img/png/energy-icon.png",
+      "frame_plate": "/img/png/frame-owner-plate.png",
+      "icon": "/img/bubacards/horn.png",
+      "skill": "/img/png/attack.png",
+      "bottom_icon": "/img/puffycards/aquatic2.png"
+    },
+    {
+      "card_name": "Tiny Dino",
+      "card_type": "attack",
+      "card_damage": 65,
+      "damage_icon": "/img/bubacards/damage.png",
+      "card_energy": "1",
+      "card_image": "/img/puffycards/reptile-back-03-00.png",
+      "card_text": "<p class='text-white'><strong>Retain</strong> If <strong>Initial</strong>, deal 15 bonus DMG.</p>",
+      "card_bg": "/img/puffycards/reptile.jpg",
+      "card_bg_2": "/img/puffycards/reptile1.png",
+      "frame_energy": "/img/png/frame-energy.png",
+      "energy_icon": "/img/png/energy-icon.png",
+      "frame_plate": "/img/png/frame-owner-plate.png",
+      "icon": "/img/bubacards/back.png",
+      "skill": "/img/png/attack.png",
+      "bottom_icon": "/img/png/reptile.png"
+    },
+    {
+      "card_name": "Puff",
+      "card_type": "attack",
+      "card_damage":65,
+      "damage_icon": "/img/bubacards/damage.png",
+      "card_energy": "X",
+      "card_image": "/img/puffycards/aquatic-tail-01-00.png",
+      "card_text": "<p class='text-white'>Consume all Energy. Randomly deal hits equal to Energy Consumed.<strong>Bubble</strong> & <strong>Bubble Bomb</strong>'s bonus DMG also affects this skill's DMG.</p>",
+      "card_bg": "/img/puffycards/aquatic.jpg",
+      "card_bg_2": "/img/puffycards/aquatic1.png",
+      "frame_energy": "/img/png/frame-energy.png",
+      "energy_icon": "/img/png/energy-icon.png",
+      "frame_plate": "/img/png/frame-owner-plate.png",
+      "icon": "/img/bubacards/tail.png",
+      "skill": "/img/png/attack.png",
+      "bottom_icon": "/img/puffycards/aquatic2.png"
+    }
+  ],
+  "explore_title": "Explore Starter Axies",
+  "axies_types": [
+    {
+      "src": "/img/png/olek-noborder.png",
+      "name": "olek",
+      "src2": "/img/png/plant.png",
+      "link":"/starter-axies/olek"
+      
+    },
+    {
+      "src": "/img/png/buba.png",
+      "name": "buba",
+      "src2": "/img/png/beast3.png",
+      "link":"/starter-axies/buba"
+    },
+    {
+      "src": "/img/png/ena.png",
+      "name": "Ena",
+      "src2": "/img/png/plant.png",
+      "link":"/starter-axies/ena"
+    } 
+  ],
+  "status":"STATS",
+  "tag":"TAGS",
+  "badge-data":[
+    {
+      "rate":"4",
+      "icon":"fa-moon",
+      "tooltip":"4 energy"
+    },
+    {
+      "rate":"320",
+      "icon":"fa-sword",
+      "tooltip":"95 damage"
+    },
+    {
+      "rate":"0",
+      "icon":"fa-sparkle",
+      "tooltip":"0 heal"
+    },
+    {
+      "rate":"0",
+      "icon":"fa-shield",
+      "tooltip":"0 sheild"
+    }
+  ],
+  "badge-data-2":[
+    {
+      "rate":"1",
+      "icon":"fa-sword",
+      "tooltip":"1 power card"
+    },
+    {
+      "rate":"5",
+      "icon":"fa-sword",
+      "tooltip":"5 damage cards"
+    }
+    
+  ],
+  "potential-data":[
+    {
+      "num":"9",
+      "img":"/img/puffycards/aquatic.png",
+      "tooltip":"aquatic"
+    },
+    {
+      "num":"1",
+      "img":"/img/bubacards/beast.png",
+      "tooltip":"beast"
+    },
+    {
+      "num":"1",
+      "img":"/img/png/reptile2.png",
+      "tooltip":"reptile"
+    }
+  ]
+}

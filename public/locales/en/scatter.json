@@ -1,0 +1,12 @@
+{
+  "title":"Scatter Guide",
+  "title-text":"How to send tokens to multiple Ronin addresses using Scatter.",
+  "What-is-Scatter":"What is Scatter?",
+  "scatter":"Scatter",
+  "text-1":"<Link class='text-pink'>Scatter</Link> is a tool that allows you to send tokens to more than one Ronin address at the same time. It currently supports RON, AXS, SLP, WETH and USDC. Scatter is particularly useful for Scholarship Managers who need to distribute tokens to their scholars.",
+  "text-2":"In this tutorial, you will learn how to send RON tokens to multiple ronin addresses. The same process applies for AXS, SLP, WETH or USDC – just don't forget to select the correct token from the Assets dropdown!",
+  "text-3":"For ease, here is the formula to paste into Cell C1:",
+  "text-4":"=CONCATENATE(A1,'','',B1)",
+  "text-5":"Ready to get started? Head over to",
+  "text-6":"to start transferring!"
+}

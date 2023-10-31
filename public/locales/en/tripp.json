@@ -1,0 +1,195 @@
+{
+  "name":"Trip",
+  "class-title":"Class",
+  "class":"Beast",
+  "role-title":"Role",
+  "role":"Damage Dealer",
+  "specialties":"Specialties",
+  "specialties-1":"Damage Ramp",
+  "specialties-2":"Burst Damage",
+  "specialties-3":"Card Draw",
+  "potential-points":"Potential Points",
+  "about":"Tripp almost broke the Lunacian nut-cracking contest record. He cracked 243 nuts in less than a minute, far exceeding the previous record of 124. Unfortunately, he ate them all, which disqualified him from being listed in the record books.",
+  "story":"Story",
+  "story-part-1":"Tripp is a curious Axie who has an almost obsessive interest in acorns. As a younger boy, he one night dreamed that a massive, beautiful acorn fell from the sky and landed in the Great Forest, far away from the small village where he was raised. He woke up from that dream, convinced it was a prophecy, and formed the Cult of Acorn as it's first (and only) member.",
+  "story-part-2":"In his desperate search for the Great Acorn, Tripp got lost in the forest. Fortunately, he was discovered by the Old Guardian, who tried to help him find his way back home. Tripp, while appreciative of the Guardian's help, instead offered to become her protector, to both repay the Guardian's kindness, and continue his search for the Great Acorn.",
+  "story-part-3":"Months passed, and while the bond between the Old Guardian and Tripp grew, the Great Acorn was nowhere to be found. At the peak of his despair, he ultimately came across the trio of Olek, Buba, and Puffy and saw it as a sign to continue his quest to discover the Great Acorn alongside them.",
+  "cards":"Cards",
+  "cards_data": [
+    {
+      "card_name": "Zeal",
+      "card_type": "skill",
+      "card_energy": "0",
+      "card_image": "/img/trippcards/beast-eyes-02-00.png",
+      "card_text": "<p class='text-white'>If <strong>Initial</strong>, pick 1 Beast card from your Discard Pile; otherwise, pick from your Draw Pile. Put the card on top of your Draw Pile.</p>",
+      "card_bg": "/img/bubacards/beast.jpg",
+      "card_bg_2": "/img/bubacards/beast2.png",
+      "frame_energy": "/img/png/frame-energy.png",
+      "energy_icon": "/img/png/energy-icon.png",
+      "frame_plate": "/img/png/frame-owner-plate.png",
+      "icon": "/img/bubacards/eyes.png",
+      "skill": "/img/png/skill.png",
+      "bottom_icon": "/img/bubacards/beast3.png"
+    },
+    {
+      "card_name": "Nut Cracker",
+      "card_type": "attack",
+      "card_damage": 60,
+      "damage_icon": "/img/bubacards/damage.png",
+      "card_energy": "1",
+      "card_image": "/img/trippcards/beast-ears-04-00.png",
+      "card_text": "<p class='text-white'>When played, this Axie's Nut Cracker cards gain 10 base DMG for the rest of the battle. (Cap at 60 bonus DMG).</p>",
+      "card_bg": "/img/bubacards/beast.jpg",
+      "card_bg_2": "/img/bubacards/beast2.png",
+      "frame_energy": "/img/png/frame-energy.png",
+      "energy_icon": "/img/png/energy-icon.png",
+      "frame_plate": "/img/png/frame-owner-plate.png",
+      "icon": "/img/bubacards/ears.png",
+      "skill": "/img/png/attack.png",
+      "bottom_icon": "/img/bubacards/beast3.png"
+    },
+    {
+      "card_name": "Nut Cracker",
+      "card_type": "attack",
+      "card_damage": 60,
+      "damage_icon": "/img/bubacards/damage.png",
+      "card_energy": "1",
+      "card_image": "/img/trippcards/beast-mouth-02-00.png",
+      "card_text": "<p class='text-white'>When played, this Axie's Nut Cracker cards gain 10 base DMG for the rest of the battle. (Cap at 60 bonus DMG).</p>",
+      "card_bg": "/img/bubacards/beast.jpg",
+      "card_bg_2": "/img/bubacards/beast2.png",
+      "frame_energy": "/img/png/frame-energy.png",
+      "energy_icon": "/img/png/energy-icon.png",
+      "frame_plate": "/img/png/frame-owner-plate.png",
+      "icon": "/img/bubacards/mouth.png",
+      "skill": "/img/png/attack.png",
+      "bottom_icon": "/img/bubacards/beast3.png"
+    },
+    {
+      "card_name": "Acorn Cap",
+      "card_Type": "skill",
+      "card_damage": 65,
+      "damage_icon": "/img/trippcards/shield.png",
+      "card_energy": "1",
+      "card_image": "/img/trippcards/plant-horn-07-00.png",
+      "card_text": "<p class='text-white'>Draw 1 Card. If a Nut Cracker card is drawn, grant 10 base DMG to all Nut Cracker in your Deck then <strong>Bunish</strong> this card</p>",
+      "card_bg": "/img/bubacards/plant.jpg",
+      "card_bg_2": "/img/png/plant2.png",
+      "frame_energy": "/img/png/frame-energy.png",
+      "energy_icon": "/img/png/energy-icon.png",
+      "frame_plate": "/img/png/frame-owner-plate.png",
+      "icon": "/img/bubacards/horn.png",
+      "skill": "/img/png/skill.png",
+      "bottom_icon": "/img/png/plant3.png"
+    },
+    {
+      "card_name": "Nutdha statue",
+      "card_type": "skill",
+      "card_heal": 60,
+      "heal_icon": "/img/trippcards/heal.png",
+      "card_energy": "1",
+      "card_image": "/img/trippcards/dawn-back-01-00.png",
+      "card_text": "<p class='text-white'>Target any ally. This card gain 10 base Heal whenever you play a Nut Cracker card. (Cap at 60 bonus Heal)</p>",
+      "card_bg": "/img/trippcards/dawn.jpg",
+      "card_bg_2": "/img/trippcards/dawn2.png",
+      "frame_energy": "/img/png/frame-energy.png",
+      "energy_icon": "/img/png/energy-icon.png",
+      "frame_plate": "/img/png/frame-owner-plate.png",
+      "icon": "/img/bubacards/back.png",
+      "skill": "/img/png/attack.png",
+      "bottom_icon": "/img/trippcards/dawn3.png"
+    },
+    {
+      "card_name": "Nut Cracker",
+      "card_type": "attack",
+      "card_damage":60,
+      "damage_icon": "/img/bubacards/damage.png",
+      "card_energy": "1",
+      "card_image": "/img/trippcards/beast-tail-10-00.png",
+      "card_text": "<p class='text-white'>When played, this Axie's Nut Cracker cards gain 10 base DMG for the rest of the battle. (Cap at 60 bonus DMG).</p>",
+      "card_bg": "/img/bubacards/beast.jpg",
+      "card_bg_2": "/img/bubacards/beast2.png",
+      "frame_energy": "/img/png/frame-energy.png",
+      "energy_icon": "/img/png/energy-icon.png",
+      "frame_plate": "/img/png/frame-owner-plate.png",
+      "icon": "/img/bubacards/tail.png",
+      "skill": "/img/png/attack.png",
+      "bottom_icon": "/img/bubacards/beast3.png"
+    }
+  ],
+  "explore_title": "Explore Starter Axies",
+  "axies_types": [
+    {
+      "src": "/img/png/olek-noborder.png",
+      "name": "olek",
+      "src2": "/img/png/plant.png",
+      "link":"/starter-axies/olek"
+    },
+    {
+      "src": "/img/png/ena.png",
+      "name": "ena",
+      "src2": "/img/png/plant.png",
+      "link":"/starter-axies/ena"
+    },
+    {
+      "src": "/img/png/buba.png",
+      "name": "buba",
+      "src2": "/img/png/beast3.png",
+      "link":"/starter-axies/buba"
+    }
+  ],
+  "status":"STATS",
+  "tag":"TAGS",
+  "badge-data":[
+    {
+      "rate":"5",
+      "icon":"fa-moon",
+      "tooltip":"5 energy"
+    },
+    {
+      "rate":"180",
+      "icon":"fa-sword",
+      "tooltip":"180 damage"
+    },
+    {
+      "rate":"60",
+      "icon":"fa-sparkle",
+      "tooltip":"60 heal"
+    },
+    {
+      "rate":"65",
+      "icon":"fa-shield",
+      "tooltip":"65 sheild"
+    }
+  ],
+  "badge-data-2":[
+    {
+      "rate":"3",
+      "icon":"fa-book-open",
+      "tooltip":"3 skill cards"
+    },
+    {
+      "rate":"3",
+      "icon":"fa-moon",
+      "tooltip":"3 damage cards"
+    }
+    
+  ],
+  "potential-data":[
+    {
+      "num":"9",
+      "img":"/img/bubacards/beast.png",
+      "tooltip":"beast"
+    },
+    {
+      "num":"1",
+      "img":"/img/png/plant.png",
+      "tooltip":"plant"
+    },
+    {
+      "num":"1",
+      "img":"/img/trippcards/dawn.png",
+      "tooltip":"dawnt"
+    }
+  ]
+}

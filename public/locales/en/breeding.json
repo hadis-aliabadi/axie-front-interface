@@ -1,0 +1,63 @@
+{
+  "breeding":"Breeding",
+  "breeding-des":"A beginner's guide to breeding Axies.",
+  "woohoo":"It's WooHoo time!",
+  "woohoo-des":"Just like real-world pets, Axies can breed to create more Axies. In this Guide, you'll learn how to breed your Axies and what resources are required. Let's dive in!",
+  "limitation":"Breeding Limitations:",
+  "limitation-1":"Axies can breed a maximum of 7 times.",
+  "limitation-2":"Sibling Axies and parents/offspring Axies cannot breed.",
+  "limitation-3":"Breeding costs vary depending on how many times the parent Axies have been bred.",
+  "warning":"Breeding is risky and there are many factors to consider. Please do your own research and do not depend on this guide or the tools referenced within to make financial decisions.",
+  "how-to-breed":"How To Breed",
+  "prepare-to-breed":"Prepare Your Axies",
+  "prepare-breed":"First, open the Marketplace and log in, if you aren't already. Go to your Inventory, click on one of the Axies you want to breed and then click Breed.",
+  "alert-1":"Both Axies must be in your Inventory in order breed.",
+  "mate":"Select Your Mate",
+  "mate-des":"Click on the outline of an Axie to browse for your desired mate.",
+  "let-breed":"Let's Breed!",
+  "let-breed-des":"Click Let's Breed to confirm the breed. A Ronin confirmation dialog will open. Click Confirm and wait for the transaction to complete.",
+  "alert-text-1":"You will need SLP and AXS tokens in order to breed. Check out the ",
+  "text-link":"Resource Requirements",
+  "alert-text-2":" section for more info.",
+  "countdown":"Hatch Countdown",
+  "hatch-countdown":"An egg will appear in your inventory. Click on the egg to view its current state. After 5 days, you'll be able to hatch your egg!",
+  "resource-requirements":"Resource Requirements",
+  "text-1":"Breeding an Axie costs SLP and AXS. The amount of SLP depends on how many times the parent Axies have been bred. The AXS portion is variable and subject to adjustment based on economic factors.",
+  "text-2":"Check out the ",
+  "text-link-2":" Breeding Costs Table",
+  "text-3":"for current SLP and AXS breeding requirements.",
+  "SLP-and-AXS":"Acquiring SLP and AXS",
+  "slp":"SLP can be earned in-game by playing ",
+  "text-link-3":"Arena",
+  "slp-2":"or purchased on",
+  "text-link-4":"Katana.",
+  "axs":"AXS can be purchased on ",
+  "helpful-tools":"Helpful Tools",
+  "helpful-text-1":"Breeding can be complex, particularly if you are trying to create offspring with a very specific set of body parts. You also have to account for changing AXS and SLP prices, stay on top of the current meta builds and track Axie availabilty on the Marketplace. On top of all of this, you have to deal with random mutations that can sneak into your otherwise perfect lineage!",
+  "helpful-text-2":"To make your life a bit easier, the Community has created a variety of tools that you can use to help plan your breeds.",
+  
+  "tools_data":[
+    {
+      "pic":"img/png/table.png",
+      "title":"Breeding Costs Table",
+      "text":"he Breeding Costs Table shows exactly what resources you need to breed virgin Axies. The total costs automatically update to reflect live ETH, AXS and SLP prices.",
+      "btn":"breeding cost table"
+    },
+    {
+      "pic":"img/png/calculator.png",
+      "title":"Breeding Calculator",
+      "text":"The Breeding Calculator is a more in-depth version of the Breeding Costs table. It allows you to calculate total costs and estimated ROI for complex breeds, accounting for SLP and AXS in your inventory and expected Parent/Offspring sales.",
+      "btn":"breeding calculator"
+    },
+    {
+      "pic":"img/png/simulator.png",
+      "title":"Breeding Simulator",
+      "text":"Before you breed, use a Breeding Simulator to check the possible genetic makeup of the offspring. Breeding Sims are a great way to select parent Axies with the highest chance of producing offspring that have the desired genes.",
+      "btn":"breeding simulator"
+    }
+  ],
+  "footer_title":"Ready to do some breeding?",
+  "footer_text":"Head over to the Marketplace to find the Axies you want to breed!",
+  "footer_btn":"visit marketplace"
+
+}

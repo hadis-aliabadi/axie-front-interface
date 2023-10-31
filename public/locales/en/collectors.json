@@ -1,0 +1,66 @@
+{
+  "page_title":"Collector's Guide",
+  "title_description":"A beginner's guide to Axie Infinity collectibles.",
+  "Rare-Axies":"Rare Axies",
+  "text-1":"Rare Axies are collectible NFTs with unique genetics and aesthetics and a capped supply. They may also have different breeding abilities or reduced breeding requirements.",
+  "text-2":"In this Guide, you'll discover different types of Rare Axies, how they originated and their total supply.",
+  "cards_data":[
+    {
+      "image":"/img/jpeg/origin.jpg",
+      "title":"Origin Axies",
+      "text":"Origin Axies were sold from February to April 2018. Owning an Origin Axie is a marker of being an Axie OG.",
+      "total":"Total: ",
+      "browse":"BROWSE",
+      "range":"~3,400",
+      "link":"/#"
+    },
+    {
+      "image":"/img/jpeg/mystic.jpg",
+      "title":"Mystic Axies",
+      "text":"Origin Axies with at least 1 Mystic Part are called Mystic Axies. Mystic Parts have unique aesthetics compared to their normal variants.",
+      "total":"Total: ",
+      "browse":"BROWSE",
+      "range":"~1,200",
+      "link":"/#"
+    },
+    {
+      "image":"/img/jpeg/holiday.jpg",
+      "title":"Holyday Axies",
+      "text":"Holiday Axies originated from special breeding events held in Winter 2018 and Winter 2019. These Axies have Christmas parts, some of which are very rare or animated.",
+      "total":"Total: ",
+      "browse":"BROWSE",
+      "range":"~3,000",
+      "link":"/#"
+    },
+    {
+      "image":"/img/jpeg/japanese.jpg",
+      "title":"Japanese Axies",
+      "text":"Prior to the migration to Ronin, it used to be possible to breed Axies with special Japanese-themed parts.",
+      "total":"Total: ",
+      "browse":"BROWSE",
+      "range":"~16,500",
+      "link":"/#"
+    },
+    {
+      "image":"/img/jpeg/meo.jpg",
+      "title":"MEO Axies",
+      "text":"MEO Axies are used to introduce new body parts. We are currently in MEO Season 2; the Season 1 supply has been capped. MEO Axies do not require SLP to breed.",
+      "total":"Total: ",
+      "browse":"BROWSE",
+      "range":"~2,500",
+      "link":"/#"
+    },
+    {
+      "image":"/img/jpeg/agamogenesis.jpg",
+      "title":"Agamogenesis Axies",
+      "text":"Agamogenesis Axies have 1/1 skin and animated body parts. There are only 3 Agamogenesis Axies in existence.",
+      "total":"Total: ",
+      "browse":"BROWSE",
+      "range":"3",
+      "link":"/#"
+    }
+  ],
+  "footer_title":"Grow Your Collection",
+  "footer-text":"Head over to the Marketplace to look for your next special Axie!",
+  "footer_btn":"visit marketplace"
+}

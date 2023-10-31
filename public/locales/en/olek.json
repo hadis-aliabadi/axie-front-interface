@@ -1,0 +1,197 @@
+{
+  "name":"Olek",
+  "class-title":"Class",
+  "class":"palnt",
+  "role-title":"Role",
+  "role":"Tank",
+  "specialties":"Specialties",
+  "specialties-1":"High Shield",
+  "specialties-2":"Self-Heal",
+  "specialties-3":"Card Draw",
+  "potential-points":"Potential Points",
+  "about":"Since most of his body is plant-based, Olek has the ability to bury himself into the ground which allows him to absorb the soil's nutrients and heal his injures.",
+  "story":"Story",
+  "story-part-1":"Olek is a veteran warrior with a lifetime of fighting experience who recently retired to become a turnip farmer. One of his most distinctive characteristics is the large scar on his back, which he acquired as he protected his fallen comrade during a ferocious battle many years ago. During the fight, Olek leaped in front of his friend just as a Chimera viciously attacked, nearly killing Olek in the process. He was ultimately saved by his trusty helmet, which he still wears to this day, despite it's rust and misshapen nature.",
+  "story-part-2":"Olek is a brave, calm, and patient teacher who loves to share his knowledge with others. It's no surprise that he was tasked to mentor and train the next generation of Frontier soldiers. His goal is to ensure that each of his students passes the Maturity Ceremony, which is the final evaluation that demonstrates an Axie's ability to meet Frontier soldier standards.",
+  "story-part-3":"Olek is regularly attempting to flirt with the ladies, but it never seems to go quite as planned. Most of the time his students end up saving him and everyone around from further embarrassment!",
+  "cards":"Cards",
+  "cards_data": [
+    {
+      "card_name": "Risky Trunk",
+      "card_type": "skill",
+      "card_heal": 65,
+      "heal_icon": "/img/olekcards/heal.png",
+      "card_energy": "1",
+      "card_image": "/img/olekcards/plant-eyes-01-00.png",
+      "card_text": "<p class='text-white'>Target any ally.</p>",
+      "card_bg": "/img/jpeg/plant.jpg",
+      "card_bg_2": "/img/png/plant2.png",
+      "frame_energy": "/img/png/frame-energy.png",
+      "energy_icon": "/img/png/energy-icon.png",
+      "frame_plate": "/img/png/frame-owner-plate.png",
+      "icon": "/img/olekcards/eyes.png",
+      "skill": "/img/png/skill.png",
+      "bottom_icon": "/img/png/plant3.png"
+    },
+    {
+      "card_name": "Hidden Ears",
+      "card_type": "skill",
+      "card_heal": 70,
+      "heal_icon": "/img/olekcards/shield.png",
+      "card_energy": "1",
+      "card_image": "/img/olekcards/reptile-ears-03-00.png",
+      "card_text": "<p class='text-white'><strong>Retain</strong>. Apply <strong>Taunt</strong> to self for 2 turns </p>",
+      "card_bg": "/img/olekcards/reptile.jpg",
+      "card_bg_2": "/img/olekcards/reptile2.png",
+      "frame_energy": "/img/png/frame-energy.png",
+      "energy_icon": "/img/png/energy-icon.png",
+      "frame_plate": "/img/png/frame-owner-plate.png",
+      "icon": "/img/olekcards/ears.png",
+      "skill": "/img/png/skill.png",
+      "bottom_icon": "/img/olekcards/reptile3.png"
+    },
+    {
+      "card_name": "Beetroot",
+      "card_type": "skill",
+      "card_heal": 60,
+      "heal_icon": "/img/olekcards/damage.png",
+      "card_energy": "1",
+      "card_image": "/img/olekcards/plant-mouth-01-00.png",
+      "card_text": "<p class='text-white'>If <strong>Initial</strong>, draw 1 card.</p>",
+      "card_bg": "/img/jpeg/plant.jpg",
+      "card_bg_2": "/img/png/plant2.png",
+      "frame_energy": "/img/png/frame-energy.png",
+      "energy_icon": "/img/png/energy-icon.png",
+      "frame_plate": "/img/png/frame-owner-plate.png",
+      "icon": "/img/olekcards/mouth.png",
+      "skill": "/img/png/attack.png",
+      "bottom_icon": "/img/png/plant3.png"
+    },
+    {
+      "card_name": "Rusty Helm",
+      "card_nype": "attackmelee",
+      "card_damage": 35,
+      "damage_icon": "/img/olekcards/damage.png",
+      "card_energy": "1",
+      "card_image": "/img/olekcards/mech-horn-03-00.png",
+      "card_text": "<p class='text-white'>Gain 35 Shild. Grant 35 Shield to an allied Axie that has lowest remaining HP.</p>",
+      "card_bg": "/img/olekcards/mech.jpg",
+      "card_bg_2": "/img/olekcards/mech2.png",
+      "frame_energy": "/img/png/frame-energy.png",
+      "energy_icon": "/img/png/energy-icon.png",
+      "frame_plate": "/img/png/frame-owner-plate.png",
+      "icon": "/img/olekcards/horn.png",
+      "skill": "/img/png/attack.png",
+      "bottom_icon": "/img/olekcards/mech3.png"
+    },
+    {
+      "card_name": "Succulent",
+      "card_type": "attackmelee",
+      "card_damage": 50,
+      "damage_icon": "/img/olekcards/heal.png",
+      "card_energy": "0",
+      "card_image": "/img/olekcards/plant-back-01-00.png",
+      "card_text": "<p class='text-white'>Target any ally. <strong>Banish</strong>.</p>",
+      "card_bg": "/img/jpeg/plant.jpg",
+      "card_bg_2": "/img/png/plant2.png",
+      "frame_energy": "/img/png/frame-energy.png",
+      "energy_icon": "/img/png/energy-icon.png",
+      "frame_plate": "/img/png/frame-owner-plate.png",
+      "icon": "/img/olekcards/back.png",
+      "skill": "/img/png/skill.png",
+      "bottom_icon": "/img/png/plant3.png"
+    },
+    {
+      "card_name": "Sprout",
+      "card_type": "skill",
+      "card_heal":40,
+      "heal_icon": "/img/olekcards/heal.png",
+      "card_energy": "1",
+      "card_image": "/img/olekcards/plant-tail-01-00.png",
+      "card_text": "<p class='text-white'>Target any ally.</p>",
+      "card_bg": "/img/jpeg/plant.jpg",
+      "card_bg_2": "/img/png/plant2.png",
+      "frame_energy": "/img/png/frame-energy.png",
+      "energy_icon": "/img/png/energy-icon.png",
+      "frame_plate": "/img/png/frame-owner-plate.png",
+      "icon": "/img/olekcards/tail.png",
+      "skill": "/img/png/skill.png",
+      "bottom_icon": "/img/png/plant3.png"
+    }
+  ],
+  "explore_title": "Explore Starter Axies",
+  "axies_types": [
+    {
+      "src": "/img/png/buba.png",
+      "name": "Buba",
+      "src2": "/img/png/beast3.png",
+      "link":"/starter-axies/buba"
+    },
+    {
+      "src": "/img/png/tripp.png",
+      "name": "Tripp",
+      "src2": "/img/png/beast3.png",
+      "link":"/starter-axies/tripp"
+    },
+    {
+      "src": "/img/png/puffy.png",
+      "name": "Puffy",
+      "src2": "/img/png/Aquatic3.png",
+      "link":"/starter-axies/puffy"
+    }
+  ],
+  "status":"STATS",
+  "tag":"TAGS",
+  "badge-data":[
+    {
+      "rate":"5",
+      "icon":"fa-moon",
+      "tooltip":"5 energy"
+    },
+    {
+      "rate":"95",
+      "icon":"fa-sword",
+      "tooltip":"95 damage"
+    },
+    {
+      "rate":"105",
+      "icon":"fa-sparkle",
+      "tooltip":"105 heal"
+    },
+    {
+      "rate":"160",
+      "icon":"fa-shield",
+      "tooltip":"160 sheild"
+    }
+  ],
+  "badge-data-2":[
+    {
+      "rate":"4",
+      "icon":"fa-book-open",
+      "tooltip":"4 skill cards"
+    },
+    {
+      "rate":"2",
+      "icon":"fa-moon",
+      "tooltip":"2 damage cards"
+    }
+    
+  ],
+  "potential-data":[
+    {
+      "num":"9",
+      "img":"/img/png/plant.png",
+      "tooltip":"plant"
+    },
+    {
+      "num":"1",
+      "img":"/img/png/reptile2.png",
+      "tooltip":"reptile"
+    },
+    {
+      "num":"1",
+      "img":"/img/png/mech.png",
+      "tooltip":"mech"
+    }
+  ]
+}

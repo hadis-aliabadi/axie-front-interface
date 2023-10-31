@@ -1,0 +1,195 @@
+{
+  "name":"Ena",
+  "class-title":"Class",
+  "class":"Plant",
+  "role-title":"Role",
+  "role":"Support Defensive",
+  "specialties":"Specialties",
+  "specialties-1":"Heal Ally",
+  "specialties-2":"Card Clone",
+  "specialties-3":"Protect Ally",
+  "potential-points":"Potential Points",
+  "about":"One day, the small spring within the forest started to rapidly overflow and threatened to flood the nearby area. Ena used her duplicating pouch to copy and drop a giant boulder into the spring's opening. This dried-out spring lives on today.",
+  "story":"Story",
+  "story-part-1":"Ena is an Axie born and raised in the forest as a lifelong servant of the Moon Shrine. In that role, she developed a close friendship with the Guardian Fairy, and takes pride in caring for her needs. One day while cleaning the shrine's basement, Ena found a hidden, magical pouch.",
+  "story-part-2":"She and the Guardian Fairy discovered that this pouch could create a copy of any inorganic object, at the cost of the holder's energy, and if misused perhaps their life. Sensing the danger of this artifact in the wrong hands, the Old Guardian bond the magical pouch to Ena, making her the only one who could use it.",
+  "story-part-3":"Ena really needs her beauty rest. She loves sleep so much that she sometimes even falls asleep in the middle of a fight. After meeting the trio of Olek, Buba and Puffy, Ena decided to join them, and travel out of the forest for the first time in her life.",
+  "cards":"Cards",
+  "cards_data": [
+    {
+      "card_name": "Papl",
+      "card_heal":50,
+      "heal_icon": "/img/olekcards/heal.png",
+      "card_energy": "1",
+      "card_image": "/img/enacards/plant-eyes-02-00.png",
+      "card_text": "<p class='text-white'><strong>Retain</strong>. Target any ally. Apply 2 <strong>Leaf</strong>. Bonus 1 <strong>Leaf</strong> per Retained turns. (Cap at 3 bonus <strong>Leaf</strong>)</p>",
+      "card_bg": "/img/bubacards/plant.jpg",
+      "card_bg_2": "/img/png/plant2.png",
+      "frame_energy": "/img/png/frame-energy.png",
+      "energy_icon": "/img/png/energy-icon.png",
+      "frame_plate": "/img/png/frame-owner-plate.png",
+      "icon": "/img/bubacards/eyes.png",
+      "skill": "/img/png/skill.png",
+      "bottom_icon": "/img/png/plant3.png"
+    },
+    {
+      "card_name": "Sacura",
+      "card_type": "attack",
+      "card_energy": "1",
+      "card_image": "/img/enacards/plant-ears-08-00.png",
+      "card_text": "<p class='text-white'><strong>Innate</strong> Target any ally. For the rest of this battle, whenever you play a card, the target heals 8 HP. Cannot stack. <strong>Exile</strong></p>",
+      "card_bg": "/img/bubacards/plant.jpg",
+      "card_bg_2": "/img/png/plant2.png",
+      "frame_energy": "/img/png/frame-energy.png",
+      "energy_icon": "/img/png/energy-icon.png",
+      "frame_plate": "/img/png/frame-owner-plate.png",
+      "icon": "/img/bubacards/ears.png",
+      "skill": "/img/png/attack.png",
+      "bottom_icon": "/img/png/plant3.png"
+    },
+    {
+      "card_name": "Cub",
+      "card_damage":65,
+      "damage_icon": "/img/bubacards/damage.png",
+      "card_energy": "1",
+      "card_image": "/img/enacards/beast-mouth-05-00.png",
+      "card_text": "<p class='text-white'><strong>Limit</strong> 1. Put 1 random Skill/Secret Card from your Draw Pile to your hand.</p>",
+      "card_bg": "/img/bubacards/beast.jpg",
+      "card_bg_2": "/img/bubacards/beast2.png",
+      "frame_energy": "/img/png/frame-energy.png",
+      "energy_icon": "/img/png/energy-icon.png",
+      "frame_plate": "/img/png/frame-owner-plate.png",
+      "icon": "/img/bubacards/mouth.png",
+      "skill": "/img/png/attack.png",
+      "bottom_icon": "/img/bubacards/beast3.png"
+    },
+    {
+      "card_name": "Mandarine",
+      "card_heal":30,
+      "heal_icon": "/img/olekcards/heal.png",
+      "card_energy": "1",
+      "card_image": "/img/enacards/plant-horn-03-00.png",
+      "card_text": "<p class='text-white'>Target any ally. Add 2 <strong>Sweet Mandarine</strong>s to your hand.</p>",
+      "card_bg": "/img/bubacards/plant.jpg",
+      "card_bg_2": "/img/png/plant2.png",
+      "frame_energy": "/img/png/frame-energy.png",
+      "energy_icon": "/img/png/energy-icon.png",
+      "frame_plate": "/img/png/frame-owner-plate.png",
+      "icon": "/img/bubacards/horn.png",
+      "skill": "/img/png/skill.png",
+      "bottom_icon": "/img/png/plant3.png"
+    },
+    {
+      "card_name": "Magic Sack",
+      "card_type": "skill",
+      "card_energy": "1",
+      "card_image": "/img/enacards/dawn-back-03-00.png",
+      "card_text": "<p class='text-white'><strong>Retain</strong> Pick a card on your hand. Next turn, add 1 copy of it to your hand.<strong>Exile</strong>.</p>",
+      "card_bg": "/img/trippcards/dawn.jpg",
+      "card_bg_2": "/img/trippcards/dawn2.png",
+      "frame_energy": "/img/png/frame-energy.png",
+      "energy_icon": "/img/png/energy-icon.png",
+      "frame_plate": "/img/png/frame-owner-plate.png",
+      "icon": "/img/bubacards/back.png",
+      "skill": "/img/png/skill.png",
+      "bottom_icon": "/img/trippcards/dawn3.png"
+    },
+    {
+      "card_name": "Aegis Talisman",
+      "card_damage":70,
+      "damage_icon": "/img/enacards/shield.png",
+      "card_energy": "1",
+      "card_image": "/img/enacards/dawn-tail-03-00.png",
+      "card_text": "<p class='text-white'></p>",
+      "card_bg": "/img/trippcards/dawn.jpg",
+      "card_bg_2": "/img/trippcards/dawn2.png",
+      "frame_energy": "/img/png/frame-energy.png",
+      "energy_icon": "/img/png/energy-icon.png",
+      "frame_plate": "/img/png/frame-owner-plate.png",
+      "icon": "/img/bubacards/tail.png",
+      "skill": "/img/png/skill.png",
+      "bottom_icon": "/img/trippcards/dawn3.png"
+    }
+  ],
+  "explore_title": "Explore Starter Axies",
+  "axies_types": [
+    {
+      "src": "/img/png/olek-noborder.png",
+      "name": "olek",
+      "src2": "/img/png/plant.png",
+      "link":"/starter-axies/olek"
+    },
+    {
+      "src": "/img/png/buba.png",
+      "name": "buba",
+      "src2": "/img/png/beast3.png",
+      "link":"/starter-axies/buba"
+    },
+    {
+      "src": "/img/png/tripp.png",
+      "name": "Tripp",
+      "src2": "/img/png/beast3.png",
+      "link":"/starter-axies/tripp"
+    }
+  ],
+  "status":"STATS",
+  "tag":"TAGS",
+  "badge-data":[
+    {
+      "rate":"6",
+      "icon":"fa-moon",
+      "tooltip":"6 energy"
+    },
+    {
+      "rate":"65",
+      "icon":"fa-sword",
+      "tooltip":"65 damage"
+    },
+    {
+      "rate":"80",
+      "icon":"fa-sparkle",
+      "tooltip":"80 heal"
+    },
+    {
+      "rate":"70",
+      "icon":"fa-shield",
+      "tooltip":"70 sheild"
+    }
+  ],
+  "badge-data-2":[
+    {
+      "rate":"4",
+      "icon":"fa-book-open",
+      "tooltip":"4 skill cards"
+    },
+    {
+      "rate":"1",
+      "icon":"fa-moon",
+      "tooltip":"1 power cards"
+    },
+    {
+      "rate":"1",
+      "icon":"fa-moon",
+      "tooltip":"1 damage cards"
+    }
+    
+  ],
+  "potential-data":[
+    {
+      "num":"6",
+      "img":"/img/png/plant.png",
+      "tooltip":"plant"
+      
+    },
+    {
+      "num":"2",
+      "img":"/img/trippcards/dawn.png",
+      "tooltip":"dawn"
+    },
+    {
+      "num":"1",
+      "img":"/img/bubacards/beast.png",
+      "tooltip":"beast"
+    }
+  ]
+}

@@ -23,7 +23,7 @@ import {
   LightBackground,
   TitleFontChanger,
 } from '@/components/core'
-import { Axies, IntroGamePlay, JoinCommunity} from '@/components/partials'
+import { JoinCommunity} from '@/components/partials'
 import { BattleMechanics, HowToPlay, InfinitPossibilities } from '@/components/partials/gamePlay'
 
 
@@ -31,8 +31,6 @@ const GamePlay: NextPageWithLayout = () => {
   const { t } = useTranslation()
   return (
     <LightBackground>
-      <IntroGamePlay/>
-      <Axies/>
       <HowToPlay/>
       <BattleMechanics/>
       <InfinitPossibilities/>

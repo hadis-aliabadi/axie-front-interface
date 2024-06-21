@@ -8,8 +8,9 @@ export const TeamBuild = () =>{
     <div className='flex items-center justify-center mt-16 max-w-[calc(100%+32px)]  '>
       {t('builds:team-build-data', {
         returnObjects: true,
-        }).map((item,index)=>(
-          <div className='flex flex-wrap gap-20'>
+        //@ts-ignore
+        }).map((item:any,index:any)=>(
+          <div className='flex flex-wrap gap-20' key={index}>
             <div className='flex flex-col gap-6 lg:max-w-[500px]'>
               <div>
                 <TitleFontChanger className='text-black text-3xl'>

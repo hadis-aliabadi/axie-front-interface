@@ -15,6 +15,7 @@ type backgroundProps = {
   text?: string
   btn_text?: string
   url?: string
+  puffy?:boolean
 } & HTMLAttributes<HTMLDivElement>
 export const GreenBackground = ({
   children,

@@ -10,3 +10,4 @@ export * from "./what-are-axies";
 export * from "./starter-axies";
 export * from "./personal-axies";
 export * from "./arena";
+export * from './'

@@ -32,6 +32,7 @@ const Breeding: NextPageWithLayout = () => {
   const { t } = useTranslation()
   return (
     <GreenBackground
+  
       puffy={false}
       title={t('breeding:footer_title') as string}
       text={t('breeding:footer_text')  as string}

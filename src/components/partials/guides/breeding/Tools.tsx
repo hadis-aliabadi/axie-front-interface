@@ -26,7 +26,7 @@ export const Tools = () =>{
           {
             returnObjects: true,
           }).map((item,index)=>(
-            <div className="flex-none  lg:flex items-center justify-center gap-8">
+            <div className="flex-none  lg:flex items-center justify-center gap-8" key={index}>
               <BoldableWrapper>
                 <Image src={`/${item.pic}`} alt="table" width={100} height={100}/>
               </BoldableWrapper>

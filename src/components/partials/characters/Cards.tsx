@@ -23,13 +23,14 @@ export const Cards = ({jsonFile}:{jsonFile:string}) =>{
               }).map((item, index) => (
                 <Tooltip
                   render={() => (
-                    <span className={`flex items-center gap-1 text-xs ${colores[index]}`} key={index}>
+                    <span className={`flex items-center gap-1 text-xs ${colores[index]}`} >
                       <i className={`fa-solid ${item.icon}`}></i>
                       <p className={`${colores[index]} text-xs font-extrabold`}>{item.rate}</p>
                     </span>
                   )}
                   tooltipText={item.tooltip}
                   className="!w-20"
+                  key={index}
                 />
             ))}
           </div>
@@ -44,13 +45,14 @@ export const Cards = ({jsonFile}:{jsonFile:string}) =>{
               }).map((item, index) => (
                 <Tooltip
                   render={() => (
-                    <span className={`flex items-center gap-1 text-xs ${colores_2[index]}`} key={index}>
+                    <span className={`flex items-center gap-1 text-xs ${colores_2[index]}`}>
                       <i className={`fa-solid ${item.icon}`}></i>
                       <p className={`${colores_2[index]} text-xs font-extrabold`}>{item.rate}</p>
                     </span>
                   )}
                   tooltipText={item.tooltip}
                   className="!w-24"
+                  key={index}
                 />
               ))}
             </div>
@@ -61,7 +63,7 @@ export const Cards = ({jsonFile}:{jsonFile:string}) =>{
           {t<string, ICard[]>(`${jsonFile}:cards_data`, {
             returnObjects: true,
           }).map((item, index) => (
-            <div className="scale-150 ">
+            <div className="scale-150 " key={index}>
               <Card
               key={index}
               card_bg={item.card_bg}

@@ -48,7 +48,7 @@ export const Explore = () => {
             {t<string, axies_types[]>('axiestwo:axies_types', {
               returnObjects: true,
             }).map((item, index) => (
-              <Link href={item.link}>
+              <Link href={item.link} key={index}>
                 <BoldableWrapper
                 key={index}
                 className="flex flex-col justify-between  gap-4 relative h-[260px]"

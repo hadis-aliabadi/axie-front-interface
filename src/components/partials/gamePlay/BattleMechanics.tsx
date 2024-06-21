@@ -103,6 +103,7 @@ export const BattleMechanics = () => {
             <section className="flex-col">
               {t('gameplay:battle-basic-details1', {
                   returnObjects: true,
+                  //@ts-ignore
                 }).map((item, index) => (
                   <section className="" key={index}>
                     <TitleFontChanger className="">
@@ -115,6 +116,7 @@ export const BattleMechanics = () => {
               <section className="flex-col">
                 {t('gameplay:battle-basic-details2', {
                   returnObjects: true,
+                  //@ts-ignore
                 }).map((item, index) => (
                   <section className="" key={index}>
                     <TitleFontChanger className=" ">

@@ -5,7 +5,7 @@ import { Cards, Characteristics, ExploreCharacteristics } from "@/components/par
 import { serverSideTranslations } from "next-i18next/serverSideTranslations";
 
 import olek from "public/img/png/olek-noborder.png";
-import plant from "public/img/png/plant.png";
+import plant from "public/img/png/Plant.png";
 
 
 export async function getStaticProps({ locale }: any) {

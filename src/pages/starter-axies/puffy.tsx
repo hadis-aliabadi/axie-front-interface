@@ -5,7 +5,7 @@ import { Cards, Characteristics, ExploreCharacteristics } from "@/components/par
 import { serverSideTranslations } from "next-i18next/serverSideTranslations";
 
 import puffy from "public/img/png/puffy.png";
-import aquatic from "public/img/png/aquatic3.png";
+import aquatic from "public/img/png/Aquatic3.png";
 
 export async function getStaticProps({ locale }: any) {
   return {

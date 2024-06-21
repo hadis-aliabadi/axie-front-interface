@@ -1,6 +1,6 @@
 import { serverSideTranslations } from 'next-i18next/serverSideTranslations'
 import { useTranslation } from 'next-i18next'
-import { Poppins } from 'next/font/google'
+
 
 import AppLayout from '@/components/layout/AppLayout'
 import { NextPageWithLayout } from './_app'
@@ -21,7 +21,7 @@ export async function getStaticProps({ locale }: any) {
   }
 }
 
-const poppins = Poppins({ subsets: ['latin'], weight: ['100', '500'] })
+
 
 const Community: NextPageWithLayout = () => {
   const { t } = useTranslation()
